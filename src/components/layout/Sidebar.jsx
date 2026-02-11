@@ -380,7 +380,7 @@ const Sidebar = ({ isOpen, onToggle }) => {
                 color: '#ffffff',
                 letterSpacing: '-0.01em',
               }}>
-                HRMS Lite
+                HRMS
               </p>
             </div>
             <p style={{ 
