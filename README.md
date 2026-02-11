@@ -1,6 +1,6 @@
 # HRMS Lite - Frontend
 
-live link - [Live Demo](https://hrms-lite-frontend-pi.vercel.app/)
+live link - [Live Demo](https://hrms-frontend-silk-tau.vercel.app/)
 
 A modern HR Management System interface built with React.
 
