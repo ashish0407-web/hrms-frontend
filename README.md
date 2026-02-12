@@ -83,7 +83,7 @@ src/
 - **Attendance** (`/attendance`) - Track attendance
 
 ## Deployment
-live link - [Live Demo](https://hrms-lite-frontend-pi.vercel.app/)
+live link - [Live Demo](https://hrms-frontend-silk-tau.vercel.app/)
 
 2. Upload `dist/` folder to Netlify
 3. Configure SPA redirects
